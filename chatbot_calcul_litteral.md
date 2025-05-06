@@ -1,4 +1,3 @@
-
 # ChatBot de Révision : Calcul Littéral en 4ème
 
 ## Introduction
@@ -85,7 +84,7 @@ Réponse correcte : **a) \( 3(3x + 4) \)**
 5. **Élève** : "5a."
 6. **ChatBot** : "Bonne réponse ! Passons à la suivante : Quel est le terme constant dans \(4x + 7\) ?"
 
-Le chatbot doit aussi être capable de donner des explications détaillées en cas de réponse incorrecte. Si un élève choisit une mauvaise réponse, il recevra une explication pour comprendre la bonne réponse.
+Le chatbot doit aussi être capable de donner des explications détaillées en cas de réponse incorrecte. Si un élève choisit une mauvaise réponse, il recevra une explication pour comprendre son erreur.
 
 ## Adaptation aux niveaux
 Le chatbot peut ajuster la difficulté des questions en fonction des performances de l'élève :
