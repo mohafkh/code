@@ -1,3 +1,10 @@
+---
+gestionGrosMots: true
+rechercheContenu: false
+maths: true
+obfuscate: true
+---
+
 # ChatBot de Révision : Calcul Littéral enn 4ème
 
 Bienvenue sur ton chatbot de révision du calcul littéral !
